@@ -1,0 +1,19 @@
+.number {
+  background-color: rgb(255, 159, 174);
+  font-family: verdana, DejaVu Sans, sans-serif;
+}
+
+#number-2 {
+  color: rgb(0, 0, 255);
+  font-size: 36px;
+}
+
+.number.three,
+#number-4 {
+  font-size: 24px;
+}
+
+#number-4 {
+  background-color: rgb(78, 255, 78);
+  font-weight: bold;
+}
